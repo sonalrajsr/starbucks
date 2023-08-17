@@ -141,7 +141,7 @@ button:hover{
         display: none;
     }
     .left{
-        justify-content: flex-start;
+        justify-content: center;
         width: 90vw;
         height: 40vh;
         margin-left: 0%;
@@ -169,7 +169,7 @@ button:hover{
         display: flex;
         flex-direction: column;
         position: absolute;
-        bottom: 10%;
+        bottom: 20%;
         left: 0%;
     }
 }
@@ -212,7 +212,7 @@ button:hover{
         display: flex;
         flex-direction: column;
         position: absolute;
-        bottom: 10%;
+        bottom: 20%;
         left: 0%;
     }
 }
